@@ -1,0 +1,8 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" xsi="http://www.w3.org/2001/XMLSchema-instance" engine="UnityEngine.UIElements" editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../../../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <Style src="project://database/Assets/Dragonsan/Atavism%20(UI%20Toolkit)/UI/Style%20Sheets/AtavismDefaultStyleSheet.uss?fileID=7433441132597879392&amp;guid=b5aa89d1f61b1c2408ce229dc8517454&amp;type=3#AtavismDefaultStyleSheet" />
+    <ui:VisualElement name="Screen" picking-mode="Ignore" style="flex-grow: 1;">
+        <ui:VisualElement name="background" class="prefab-panel-background" style="background-image: url(&apos;project://database/Assets/Dragonsan/Art/2024-05-15_17-06-11_5098.png?fileID=2800000&amp;guid=f0d8a5c7793007a40b8ac4daf924dba1&amp;type=3#2024-05-15_17-06-11_5098&apos;);">
+            <Atavism.UI.UIProgressBar Container-Class="prefab-UIProgressBar__container" Background-Class="prefab-UIProgressBar__background" Progress-Bar-Class="prefab-UIProgressBar__progressBar" Title-Container-Class="prefab-UIProgressBar-title__container" Title-Class="prefab-UIProgressBar__title" Show-Label="false" Value="100" name="slider" class="prefab-panel-slider" />
+        </ui:VisualElement>
+    </ui:VisualElement>
+</ui:UXML>

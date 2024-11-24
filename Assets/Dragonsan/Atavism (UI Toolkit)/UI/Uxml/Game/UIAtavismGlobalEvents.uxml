@@ -1,0 +1,8 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" editor-extension-mode="True">
+    <Style src="project://database/Assets/Dragonsan/Atavism%20(UI%20Toolkit)/UI/Style%20Sheets/AtavismDefaultStyleSheet.uss?fileID=7433441132597879392&amp;guid=b5aa89d1f61b1c2408ce229dc8517454&amp;type=3#AtavismDefaultStyleSheet" />
+    <ui:VisualElement name="Screen" picking-mode="Ignore" style="flex-grow: 1;">
+        <ui:VisualElement name="global-events-panel" class="global-events-panel" style="top: 150px;">
+            <ui:VisualElement name="grid" class="global-events-grid" />
+        </ui:VisualElement>
+    </ui:VisualElement>
+</ui:UXML>

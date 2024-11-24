@@ -1,0 +1,91 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\EpochGames\\woearena\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{914C73D4-1629-A197-DDCF-199DEA2A7E87}|Assembly-CSharp.csproj|g:\\epochgames\\woearena\\assets\\dragonsan\\atavism (ui toolkit)\\ui\\style sheets\\characterprofilemanager.uss||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{914C73D4-1629-A197-DDCF-199DEA2A7E87}|Assembly-CSharp.csproj|solutionrelative:assets\\dragonsan\\atavism (ui toolkit)\\ui\\style sheets\\characterprofilemanager.uss||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{914C73D4-1629-A197-DDCF-199DEA2A7E87}|Assembly-CSharp.csproj|G:\\EpochGames\\woearena\\assets\\dragonsan\\atavism (ui toolkit)\\ui\\style sheets\\sceneloaderstalesheet.uss||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{914C73D4-1629-A197-DDCF-199DEA2A7E87}|Assembly-CSharp.csproj|solutionrelative:assets\\dragonsan\\atavism (ui toolkit)\\ui\\style sheets\\sceneloaderstalesheet.uss||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{914C73D4-1629-A197-DDCF-199DEA2A7E87}|Assembly-CSharp.csproj|g:\\epochgames\\woearena\\assets\\dragonsan\\atavism (ui toolkit)\\ui\\style sheets\\activatableslot.uss||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{914C73D4-1629-A197-DDCF-199DEA2A7E87}|Assembly-CSharp.csproj|solutionrelative:assets\\dragonsan\\atavism (ui toolkit)\\ui\\style sheets\\activatableslot.uss||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{914C73D4-1629-A197-DDCF-199DEA2A7E87}|Assembly-CSharp.csproj|G:\\EpochGames\\woearena\\assets\\dragonsan\\atavism core\\networking\\atavismnetworkhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{914C73D4-1629-A197-DDCF-199DEA2A7E87}|Assembly-CSharp.csproj|solutionrelative:assets\\dragonsan\\atavism core\\networking\\atavismnetworkhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CharacterProfileManager.uss",
+              "DocumentMoniker": "G:\\EpochGames\\woearena\\Assets\\Dragonsan\\Atavism (UI Toolkit)\\UI\\Style Sheets\\CharacterProfileManager.uss",
+              "RelativeDocumentMoniker": "Assets\\Dragonsan\\Atavism (UI Toolkit)\\UI\\Style Sheets\\CharacterProfileManager.uss",
+              "ToolTip": "G:\\EpochGames\\woearena\\Assets\\Dragonsan\\Atavism (UI Toolkit)\\UI\\Style Sheets\\CharacterProfileManager.uss",
+              "RelativeToolTip": "Assets\\Dragonsan\\Atavism (UI Toolkit)\\UI\\Style Sheets\\CharacterProfileManager.uss",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-11-20T13:16:01.661Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ActivatableSlot.uss",
+              "DocumentMoniker": "G:\\EpochGames\\woearena\\Assets\\Dragonsan\\Atavism (UI Toolkit)\\UI\\Style Sheets\\ActivatableSlot.uss",
+              "RelativeDocumentMoniker": "Assets\\Dragonsan\\Atavism (UI Toolkit)\\UI\\Style Sheets\\ActivatableSlot.uss",
+              "ToolTip": "G:\\EpochGames\\woearena\\Assets\\Dragonsan\\Atavism (UI Toolkit)\\UI\\Style Sheets\\ActivatableSlot.uss",
+              "RelativeToolTip": "Assets\\Dragonsan\\Atavism (UI Toolkit)\\UI\\Style Sheets\\ActivatableSlot.uss",
+              "ViewState": "AgIAAIoAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-11-12T19:55:15.266Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SceneLoaderStaleSheet.uss",
+              "DocumentMoniker": "G:\\EpochGames\\woearena\\Assets\\Dragonsan\\Atavism (UI Toolkit)\\UI\\Style Sheets\\SceneLoaderStaleSheet.uss",
+              "RelativeDocumentMoniker": "Assets\\Dragonsan\\Atavism (UI Toolkit)\\UI\\Style Sheets\\SceneLoaderStaleSheet.uss",
+              "ToolTip": "G:\\EpochGames\\woearena\\Assets\\Dragonsan\\Atavism (UI Toolkit)\\UI\\Style Sheets\\SceneLoaderStaleSheet.uss",
+              "RelativeToolTip": "Assets\\Dragonsan\\Atavism (UI Toolkit)\\UI\\Style Sheets\\SceneLoaderStaleSheet.uss",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-11-07T17:57:34.751Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AtavismNetworkHelper.cs",
+              "DocumentMoniker": "G:\\EpochGames\\woearena\\Assets\\Dragonsan\\Atavism Core\\Networking\\AtavismNetworkHelper.cs",
+              "RelativeDocumentMoniker": "Assets\\Dragonsan\\Atavism Core\\Networking\\AtavismNetworkHelper.cs",
+              "ToolTip": "G:\\EpochGames\\woearena\\Assets\\Dragonsan\\Atavism Core\\Networking\\AtavismNetworkHelper.cs",
+              "RelativeToolTip": "Assets\\Dragonsan\\Atavism Core\\Networking\\AtavismNetworkHelper.cs",
+              "ViewState": "AgIAALYGAAAAAAAAAAAuwO8GAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T22:17:14.651Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

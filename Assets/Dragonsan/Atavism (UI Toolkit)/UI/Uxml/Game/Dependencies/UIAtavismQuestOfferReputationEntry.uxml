@@ -1,0 +1,7 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" editor-extension-mode="True">
+    <Style src="project://database/Assets/Atavism%20(UI%20Toolkit)/UI/Style%20Sheets/AtavismDefaultStyleSheet.uss?fileID=7433441132597879392&amp;guid=b5aa89d1f61b1c2408ce229dc8517454&amp;type=3#AtavismDefaultStyleSheet" />
+    <ui:VisualElement name="quest-reputation" class="quest-reputation">
+        <ui:Label tabindex="-1" text="Reputation" parse-escape-sequences="true" display-tooltip-when-elided="true" name="reputation-name" class="Text-Default reputation-name" />
+        <ui:Label tabindex="-1" text="1000000" parse-escape-sequences="true" display-tooltip-when-elided="true" name="reputation-value" class="Text-Default Text-Light reputation-value" />
+    </ui:VisualElement>
+</ui:UXML>

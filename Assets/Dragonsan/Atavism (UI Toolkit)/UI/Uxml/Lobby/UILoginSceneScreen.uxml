@@ -1,0 +1,33 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" xsi="http://www.w3.org/2001/XMLSchema-instance" engine="UnityEngine.UIElements" editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <Style src="project://database/Assets/Dragonsan/Atavism%20(UI%20Toolkit)/UI/Style%20Sheets/AtavismDefaultStyleSheet.uss?fileID=7433441132597879392&amp;guid=b5aa89d1f61b1c2408ce229dc8517454&amp;type=3#AtavismDefaultStyleSheet" />
+    <Style src="project://database/Assets/Dragonsan/Atavism%20(UI%20Toolkit)/UI/Style%20Sheets/SceneLoaderStaleSheet.uss?fileID=7433441132597879392&amp;guid=9c5aec59b9deac5449aa7eff45215d20&amp;type=3#SceneLoaderStaleSheet" />
+    <ui:VisualElement name="Screen" picking-mode="Ignore" style="width: 100%; height: 100%; flex-direction: row; background-color: rgb(0, 0, 0); flex-wrap: nowrap; justify-content: space-around; align-items: stretch; flex-shrink: 1; flex-grow: 0; color: rgb(122, 115, 105); -unity-font-definition: url(&apos;project://database/Assets/Dragonsan/Atavism%20(UI%20Toolkit)/UI/Fonts/Cambria%20SDF.asset?fileID=11400000&amp;guid=171debed56e16fd4daf65623c92ecac2&amp;type=2#Cambria SDF&apos;); -unity-font: url(&apos;project://database/Assets/Dragonsan/AtavismObjects/Fonts/Cambria.ttf?fileID=12800000&amp;guid=36ef3a2444bc15847bd874b9b0c98ae6&amp;type=3#Cambria&apos;); cursor: url(&apos;project://database/Assets/Dragonsan/AtavismObjects/Textures/Cursor/Cursor_Default.png?fileID=2800000&amp;guid=4ed3a5063cdfb254a8e1ae64566da949&amp;type=3#Cursor_Default&apos;);">
+        <ui:VisualElement name="panel_screenLeft" picking-mode="Ignore" style="width: 33%;" />
+        <ui:VisualElement name="panel_screenCenter" picking-mode="Ignore" style="width: 33%; flex-wrap: nowrap; flex-direction: column; justify-content: flex-start; align-items: center;">
+            <ui:VisualElement name="LogoImage" picking-mode="Ignore" style="background-image: url(&apos;project://database/Assets/Dragonsan/Art/Gemini_Generated_Image_9d31yh9d31yh9d31.jpg?fileID=2800000&amp;guid=60286ef512f68c7499d49754d8d993bb&amp;type=3#Gemini_Generated_Image_9d31yh9d31yh9d31&apos;); width: 256px; height: 256px; -unity-background-scale-mode: scale-to-fit; margin-top: 20%; justify-content: flex-start; margin-bottom: 10%; align-self: center; align-items: auto; opacity: 0;" />
+            <ui:VisualElement name="panel_login" picking-mode="Ignore" style="width: 400px; height: 400px; -unity-text-outline-color: rgb(196, 196, 196); justify-content: flex-start; align-items: stretch; display: flex; visibility: visible;">
+                <Atavism.UI.UITextField name="loginUsernameTextField" Placeholder="Username" style="height: 46px;" />
+                <Atavism.UI.UITextField name="loginPasswordTextField" Placeholder="Password" password="true" style="height: 46px;" />
+                <ui:Toggle label="Remember Username &amp; Password" name="saveCredentialsToggle" focusable="false" class="Toggle-Default" style="width: 300px; height: 30px; margin-left: 0; margin-right: 0; margin-top: 10px; margin-bottom: 0;" />
+                <ui:VisualElement name="loginButtonsLayout" style="align-items: center; justify-content: space-around; padding-bottom: 10px; padding-top: 10px; visibility: visible; display: flex;">
+                    <ui:Button text="LOGIN" display-tooltip-when-elided="true" name="loginButton" class="Button-XM Button-Highlighted-Overlay" />
+                    <ui:Button text="REGISTER" display-tooltip-when-elided="true" name="registerOpenButton" class="Button-XM Button-Light-Overlay" />
+                </ui:VisualElement>
+            </ui:VisualElement>
+            <ui:VisualElement name="panel_register" style="width: 400px; height: 400px; display: none;">
+                <Atavism.UI.UITextField name="registerUsername" Placeholder="Username" style="height: 46px;" />
+                <Atavism.UI.UITextField name="registerPassword" Placeholder="Password" password="true" style="height: 46px; margin-top: 20px;" />
+                <Atavism.UI.UITextField name="registerPasswordConfirm" Placeholder="Confirm Password" password="true" style="height: 46px; margin-bottom: 10px;" />
+                <Atavism.UI.UITextField name="registerEmail" Placeholder="E-mail" style="height: 46px; margin-top: 20px;" />
+                <Atavism.UI.UITextField name="registerEmailConfirm" Placeholder="Confirm E-mail" style="height: 46px;" />
+                <ui:VisualElement name="registerButtonsLayout" style="flex-direction: row; justify-content: center; margin-top: 22px;">
+                    <ui:Button text="CANCEL" display-tooltip-when-elided="true" name="registerCloseButton" class="Button-XM" />
+                    <ui:Button text="CREATE" display-tooltip-when-elided="true" name="registerCreateButton" class="Button-XM Button-Highlighted-Overlay" />
+                </ui:VisualElement>
+            </ui:VisualElement>
+        </ui:VisualElement>
+        <ui:VisualElement name="panel_screenRight" picking-mode="Ignore" style="width: 33%; flex-direction: column-reverse; align-items: auto; justify-content: flex-start; flex-wrap: nowrap; padding-right: 50px; padding-top: 0; padding-bottom: 50px;">
+            <ui:Button text="QUIT" display-tooltip-when-elided="true" name="quitButton" class="Button-XL Button-Dark-Overlay" />
+        </ui:VisualElement>
+    </ui:VisualElement>
+</ui:UXML>

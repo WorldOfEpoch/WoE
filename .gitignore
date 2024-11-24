@@ -1,0 +1,115 @@
+# Unity Generated Files
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+
+# User-specific Files
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+
+# Unity Automatic Version Control
+*.unitypackage
+*.prefab.meta
+*.asset.meta
+*.prefab
+*.meta
+*.asset
+*.unity
+*.rtf
+*.mat
+*.fbx
+*.flare
+*.psd
+*.png
+*.tif
+*.tga
+*.lighting
+*.terrainlayer
+*.cs
+*.exr
+*.wav
+*.ogg
+*.anim
+*.controller
+*.shader
+*.shadergraph
+*.mp3
+*.pdf
+*.jpg
+*.cginc
+*.overridecontroller
+
+# OS Generated Files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Atavism Specific Files
+Atavism-Online/Server/logs/
+Atavism-Online/Server/tmp/
+Atavism-Online/Server/config/world.properties
+Atavism-Online/Server/plugins/backup/
+Atavism-Online/WorldServer/backup/
+Atavism-Online/PluginsEditor/backup/
+Atavism-Online/Database/backups/
+
+# Build Artifacts
+*.apk
+*.aab
+*.unitypackage
+*.zip
+*.tar.gz
+*.rar
+
+# IDE Specific Files (e.g., VSCode, JetBrains Rider)
+.vscode/
+.idea/
+*.iml
+
+# Node Modules (if using Node.js for tools)
+node_modules/
+
+# Logs and Cache
+*.log
+*.lock
+*.cache
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Generated Scripts and Temporary Data
+Generated/
+Generated.meta
+
+# Exclude specific large assets or ignored folders
+Assets/StreamingAssets/*.meta
+Assets/External/
+
+# Ignore backups or version control data within the Atavism Server
+Atavism-Online/Server/backups/
+Atavism-Online/Server/version_control/
+
+# Exclude Unity Collaborate meta files
+Collab/Backup/
+
+# Exclude sensitive files (optional)
+.env
+*.key
+*.pem
+*.pfx
